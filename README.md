@@ -24,7 +24,7 @@ The configurations that will be covered are the following:
 
 - [x] VMware Workstation 17 :+1:
 
-- [X] KVM on Debian 11 (Built-In Container) :-1:
+- [X] KVM on Ubuntu 22.04LTS (Free Option and Clunky to Navigate) :-1:
 
 - [x] Virtualbox :+1: (Optional)
 
