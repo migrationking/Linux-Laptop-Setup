@@ -10,6 +10,8 @@ https://ubuntu.com/pro
 
 3. Ready the Machine for Virtualization Software (e.g. VMware Workstation 17, etc)
 
+https://youtu.be/xOnrdMQd1vU
+
 sudo apt-get update && sudo apt-get upgrade -y
 
 sudo apt-get install gcc build-essentials -y
