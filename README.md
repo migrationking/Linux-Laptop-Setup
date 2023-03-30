@@ -20,4 +20,12 @@ sudo ./VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
 
 sudo vmware-modconfig --console --install-all
 
+The configurations that will be covered are the following:
+
+- [x] VMware Workstation 17 :+1:
+
+- [X] KVM on Debian 11 (Built-In Container) :-1:
+
+- [x] Virtualbox :+1: (Optional)
+
 
