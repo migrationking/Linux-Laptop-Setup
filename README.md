@@ -46,3 +46,4 @@ The configurations that will be covered are the following:
 - [x] Virtualbox :+1: (Optional)
 
 
+4. Note: When installing Ubuntu, use the minimal installation so you don't install a bunch of bloated junk onto your system. Only install what you need and will use.
